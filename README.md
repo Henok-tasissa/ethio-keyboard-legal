@@ -1,14 +1,9 @@
-# Ethio Keyboard Legal
+# Ethio Amharic Keyboard: legal and support pages
 
-Privacy Policy and Terms of Use for Ethio Keyboard.
+Static pages for the Ethio Amharic Keyboard app, published with GitHub Pages:
 
-## Pages
+- `index.html`: support and getting started
+- `privacy-policy.html`
+- `terms-of-use.html`
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Use](terms-of-use.md)
-
-## GitHub Pages
-
-This repository can be published with GitHub Pages. Set the Pages source to the repository root on the default branch.
-
-Before publishing, replace the placeholder effective date and confirm that the policy matches the app's final data practices.
+When the app's data practices change, update the policy and its effective date.
