@@ -1,8 +1,8 @@
 # Ethio Amharic Keyboard: legal and support pages
 
-Static pages for the Ethio Amharic Keyboard app, published with GitHub Pages:
+Static pages for the Ethio Amharic Keyboard apps (iPhone/iPad and Mac), published with GitHub Pages:
 
-- `index.html`: support and getting started
+- `index.html`: support and getting started (iOS and Mac)
 - `privacy-policy.html`
 - `terms-of-use.html`
 
